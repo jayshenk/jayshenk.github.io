@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Jay Shenk
+tagline:          'Software Engineer'
+description:      ''
+url:              http://jayshenk.com
+baseurl:          /
+
+author:
+  name:           'Jay Shenk'
+  url:            https://twitter.com/jay_shenk
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+gems: [jekyll-paginate]
+
+github:
+  repo:           https://github.com/poole/hyde
