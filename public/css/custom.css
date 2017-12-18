@@ -5,6 +5,14 @@
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+
+/* Sidebar */
+@media (min-width: 48em) {
+  .sidebar {
+    padding-top: 3rem;
+  }
+}
+
 /* About section */
 .sidebar-about h1 {
   font-family: inherit;
@@ -19,20 +27,33 @@
     max-width: 50%;
   }
   .lead {
-    font-size: 1.1rem;
+    font-size: 1rem;
+  }
+}
+
+/* Sidebar nav */
+.sidebar-social {
+  text-align: center;
+}
+.sidebar-social-item {
+  padding: 1rem .5rem;
+}
+.sidebar-social-item:hover {
+  text-decoration: none;
+}
+@media (min-width: 48em) {
+  .sidebar-social {
+    text-align: left;
+  }
+  .sidebar-social-item {
+    padding-left: 0;
+    padding-right: 1rem;
   }
 }
 
 /* Container */
 @media (min-width: 48em) {
   .content {
-    padding-top: 3rem;
-  }
-}
-
-/* Sidebar */
-@media (min-width: 48em) {
-  .sidebar {
     padding-top: 3rem;
   }
 }
