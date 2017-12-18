@@ -1,0 +1,16 @@
+/*
+ * Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+/* About section */
+.sidebar-about h1 {
+  font-family: inherit;
+  font-size: 2.25rem;
+}
+.sidebar-about img {
+  display: inline-block;
+  max-width: 40%;
+}
