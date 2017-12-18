@@ -14,3 +14,17 @@
   display: inline-block;
   max-width: 40%;
 }
+
+/* Container */
+@media (min-width: 48em) {
+  .content {
+    padding-top: 3rem;
+  }
+}
+
+/* Sidebar */
+@media (min-width: 48em) {
+  .sidebar {
+    padding-top: 3rem;
+  }
+}
