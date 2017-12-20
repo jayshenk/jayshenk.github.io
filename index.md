@@ -30,7 +30,7 @@ Shello is a highly interactive Trello clone built with a Node/Express API backen
 
 # Appearances
 
-2/7/18 - (Scheduled) Creating Prefixy - Dayton Web Developers
+2/7/18 - (Scheduled) *Creating Prefixy* - Dayton Web Developers
 
 4/2/17 - [Launch School Podcast](https://launchschool.com/blog/meet-a-student-jay-shenk){:target="_blank"}
 
