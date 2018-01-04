@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+<div class="message">
+  I'm currently looking for a new work opportunity. If you think I'd be a good fit for your team, please don't hesitate to <a href="mailto:jay.shenk@gmail.com">contact me</a>!
+</div>
+
 {:.post-title}
 # Recent Projects
 
