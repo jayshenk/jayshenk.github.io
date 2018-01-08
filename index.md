@@ -32,11 +32,15 @@ Shello is a highly interactive Trello clone built with a Node/Express API backen
 [Demo](https://boiling-falls-66079.herokuapp.com/){:target="_blank"} \|
 [Source](https://github.com/jayshenk/shello){:target="_blank"}
 
+Additional projects on [Github](https://github.com/jayshenk){:target="_blank"}.
+
 # Appearances
 
-2/7/18 - (Scheduled) *Creating Prefixy* - Dayton Web Developers
+2/7/18 - (Scheduled) *Creating Prefixy* - [Dayton Web Developers](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxdbkb/){:target="_blank"}
 
-1/15/18 - (Scheduled) *Creating Prefixy* - Columbus Ruby Brigade
+1/17/18 - (Scheduled) *Building Prefix Search as a Service* - [Gem City JS](http://gemcityjs.com/){:target="_blank"}
+
+1/15/18 - (Scheduled) *Creating Prefixy* - [Columbus Ruby Brigade](http://columbusrb.com/){:target="_blank"}
 
 4/2/17 - [Launch School Podcast](https://launchschool.com/blog/meet-a-student-jay-shenk){:target="_blank"}
 
