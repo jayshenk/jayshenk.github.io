@@ -38,12 +38,12 @@ Additional projects on [Github](https://github.com/jayshenk){:target="_blank"}.
 
 2/7/18 - (Scheduled) *Creating Prefixy* - [Dayton Web Developers](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxdbkb/){:target="_blank"}
 
-1/17/18 - (Scheduled) *Building Prefix Search as a Service* - [Gem City JS](http://gemcityjs.com/){:target="_blank"}
+1/17/18 - *Building Prefix Search as a Service* - [Gem City JS](http://gemcityjs.com/){:target="_blank"}
 
-1/15/18 - (Scheduled) *Creating Prefixy* - [Columbus Ruby Brigade](http://columbusrb.com/){:target="_blank"}
+1/15/18 - *Creating Prefixy* - [Columbus Ruby Brigade](http://columbusrb.com/){:target="_blank"}
 
 4/2/17 - [Launch School Podcast](https://launchschool.com/blog/meet-a-student-jay-shenk){:target="_blank"}
 
 3/8/17 - *Why Use Flexbox?* - Dayton Clean Coders
 
-2/1/17 - [*Why Use Flexbox?*](https://youtu.be/v8fcG1ZO5Ig){:target="_blank"} - Dayton Web Developers - [Video](https://youtu.be/v8fcG1ZO5Ig)
+2/1/17 - [*Why Use Flexbox?*](https://youtu.be/v8fcG1ZO5Ig){:target="_blank"} - Dayton Web Developers - [Video](https://youtu.be/v8fcG1ZO5Ig){:target="_blank"}
