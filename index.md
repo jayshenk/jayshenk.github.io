@@ -40,7 +40,7 @@ Additional projects on [Github](https://github.com/jayshenk){:target="_blank"}.
 
 1/17/18 - *Building Prefix Search as a Service* - [Gem City JS](http://gemcityjs.com/){:target="_blank"}
 
-1/15/18 - *Creating Prefixy* - [Columbus Ruby Brigade](http://columbusrb.com/){:target="_blank"}
+1/15/18 - *Creating Prefixy* - Columbus Ruby Brigade - [Video](https://drive.google.com/open?id=1DdSSlMZBiww85MxKeKMBAC9SorsNK1-K){:target="_blank"}
 
 4/2/17 - [Launch School Podcast](https://launchschool.com/blog/meet-a-student-jay-shenk){:target="_blank"}
 
