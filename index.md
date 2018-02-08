@@ -36,7 +36,7 @@ Additional projects on [Github](https://github.com/jayshenk){:target="_blank"}.
 
 # Appearances
 
-2/7/18 - (Scheduled) *Creating Prefixy* - [Dayton Web Developers](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxdbkb/){:target="_blank"}
+2/7/18 - *Creating Prefixy* - [Dayton Web Developers](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxdbkb/){:target="_blank"}
 
 1/17/18 - *Building Prefix Search as a Service* - [Gem City JS](http://gemcityjs.com/){:target="_blank"}
 
