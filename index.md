@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="message">
-  I'm currently looking for a new work opportunity. If you think I'd be a good fit for your team, please don't hesitate to <a href="mailto:jay.shenk@gmail.com">contact me</a>!
-</div>
+Hello World! I'm a software engineer currently looking for a full-time position, either remote or in the Dayton, Ohio area. Recently I worked for several months as a Trial JavaScript Engineer for Automattic, where I got to work on their new WordPress Gutenberg editor, a large React/Redux application. I'm also the co-creator of [Prefixy](https://www.prefixy.io/){:target="_blank"}, a highly scalable hosted prefix search service for building autocomplete suggestions. If you think I might be a good fit for your team, please contact me via <a href="mailto:jay.shenk@gmail.com">email</a> or <a href="https://www.linkedin.com/in/jay-shenk/" target="_blank">LinkedIn</a>.
 
 {:.post-title}
 # Recent Projects
