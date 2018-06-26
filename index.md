@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hello World! I'm a software engineer currently looking for a full-time position, either remote or in the Dayton, Ohio area. Recently I worked at Automattic as a Trial JavaScript Engineer, [developing a new feature](https://github.com/WordPress/gutenberg/pull/5794){:target="_blank"} for the WordPress Gutenberg editor, a large React/Redux application using modern JavaScript. I'm also a co-creator of [Prefixy](https://prefixy.github.io/){:target="_blank"}, a hosted service for dynamic autocomplete. If you think I might be a good fit for your team, please contact me via <a href="mailto:jay.shenk@gmail.com">email</a> or <a href="https://www.linkedin.com/in/jay-shenk/" target="_blank">LinkedIn</a>.
+Hello World! I'm a software engineer actively interviewing for full-time positions. Recently I worked at Automattic as a Trial JavaScript Engineer, [developing a new feature](https://github.com/WordPress/gutenberg/pull/5794){:target="_blank"} for the WordPress Gutenberg editor, a large React/Redux application using modern JavaScript. I'm also a co-creator of [Prefixy](https://prefixy.github.io/){:target="_blank"}, a hosted service for dynamic autocomplete. If you think I might be a good fit for your team, please contact me via <a href="mailto:jay.shenk@gmail.com">email</a> or <a href="https://www.linkedin.com/in/jay-shenk/" target="_blank">LinkedIn</a>.
 
 {:.post-title}
 # Recent Projects
@@ -32,7 +32,7 @@ Shello is a highly interactive Trello clone built with a Node/Express API backen
 
 Additional projects on [Github](https://github.com/jayshenk){:target="_blank"}.
 
-# Appearances
+# Talks
 
 2/7/18 - *Creating Prefixy* - [Dayton Web Developers](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxdbkb/){:target="_blank"}
 
