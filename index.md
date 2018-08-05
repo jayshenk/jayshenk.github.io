@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-Hello World! I'm a software engineer actively interviewing for full-time positions. Recently I worked at Automattic as a Trial JavaScript Engineer, [developing a new feature](https://github.com/WordPress/gutenberg/pull/5794){:target="_blank"} for the WordPress Gutenberg editor, a large React/Redux application using modern JavaScript. I'm also a co-creator of [Prefixy](https://prefixy.github.io/){:target="_blank"}, a hosted service for dynamic autocomplete. If you think I might be a good fit for your team, please contact me via <a href="mailto:jay.shenk@gmail.com">email</a> or <a href="https://www.linkedin.com/in/jay-shenk/" target="_blank">LinkedIn</a>.
-
 {:.post-title}
 # Recent Projects
 
