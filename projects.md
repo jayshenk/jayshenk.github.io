@@ -9,7 +9,7 @@ title: Projects
 
 ## Prefixy
 
-![Prefixy]({{ site.baseurl }}public/images/prefixy.jpg){:.project-preview}
+![Prefixy](/public/images/prefixy.jpg){:.project-preview}
 
 Prefixy is a highly scalable, query optimized, hosted prefix search service for building autocomplete suggestions. Suggestions dynamically update in response to user input, so users only see the most relevant suggestions.
 
@@ -22,7 +22,7 @@ We utilized asynchronous, batched Redis calls in order to provide non-blocking w
 
 ## Shello
 
-![Shello]({{ site.baseurl }}public/images/shello.jpg){:.project-preview}
+![Shello](/public/images/shello.jpg){:.project-preview}
 
 Shello is a highly interactive Trello clone built with a Node/Express API backend and a Backbone single-page application frontend.
 
